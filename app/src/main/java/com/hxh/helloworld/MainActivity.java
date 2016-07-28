@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
      //   requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_main);
-        int a = 1;
+        int a = 2;
     //    Log.d("MainActivity", "onCreate execute");
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
